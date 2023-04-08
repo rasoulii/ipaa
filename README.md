@@ -1,2 +1,0 @@
-# ipaa
-ios
